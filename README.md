@@ -14,11 +14,11 @@ A mobile app created with Flutter
   <li type="circle"><h3>Android</h3></li>
 </ul>
 
-![Screenshot_20210924-140622](https://user-images.githubusercontent.com/25967495/134727609-07052aee-06cf-4313-98df-5e086c13bb1c.jpg)
-
-![Screenshot_20210924-140652](https://user-images.githubusercontent.com/25967495/134727617-b00a06b0-5a30-451d-a7e6-80496612f7f7.jpg)
-
-![Screenshot_20210924-140657](https://user-images.githubusercontent.com/25967495/134727624-f851c728-74a1-42a7-8fbd-7299625a1d1b.jpg)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/25967495/134727609-07052aee-06cf-4313-98df-5e086c13bb1c.jpg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/25967495/134727617-b00a06b0-5a30-451d-a7e6-80496612f7f7.jpg" width="250" height="500">
+<img src="https://user-images.githubusercontent.com/25967495/134727624-f851c728-74a1-42a7-8fbd-7299625a1d1b.jpg" width="250" height="500">
+</p>
 
 <h2>Get packages</h2>
 <ul>
